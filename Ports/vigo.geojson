@@ -1,0 +1,2433 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-31T14:29:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13474210",
+        "man_made": "pier",
+        "source": "PNOA Spain",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.7440652,
+              42.233875
+            ],
+            [
+              -8.7437051,
+              42.2340224
+            ],
+            [
+              -8.7436636,
+              42.2339668
+            ],
+            [
+              -8.743604,
+              42.2339912
+            ],
+            [
+              -8.7435886,
+              42.2339706
+            ],
+            [
+              -8.7435484,
+              42.233987
+            ],
+            [
+              -8.7435655,
+              42.2340099
+            ],
+            [
+              -8.743537,
+              42.2340215
+            ],
+            [
+              -8.7434912,
+              42.234005
+            ],
+            [
+              -8.7434219,
+              42.2340334
+            ],
+            [
+              -8.7436092,
+              42.2342842
+            ],
+            [
+              -8.7436774,
+              42.2342563
+            ],
+            [
+              -8.7436835,
+              42.2342192
+            ],
+            [
+              -8.7437146,
+              42.2342065
+            ],
+            [
+              -8.7437298,
+              42.2342268
+            ],
+            [
+              -8.7437637,
+              42.2342129
+            ],
+            [
+              -8.7437498,
+              42.2341944
+            ],
+            [
+              -8.743817,
+              42.2341669
+            ],
+            [
+              -8.7437801,
+              42.2341174
+            ],
+            [
+              -8.744137,
+              42.2339712
+            ],
+            [
+              -8.7440652,
+              42.233875
+            ]
+          ]
+        ]
+      },
+      "id": "relation/13474210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121822765",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7571371,
+            42.2263413
+          ],
+          [
+            -8.756878,
+            42.2264235
+          ],
+          [
+            -8.7567547,
+            42.2262049
+          ]
+        ]
+      },
+      "id": "way/121822765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121822766",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7572462,
+            42.2265309
+          ],
+          [
+            -8.7571371,
+            42.2263413
+          ],
+          [
+            -8.7570921,
+            42.2262598
+          ],
+          [
+            -8.7569852,
+            42.2260689
+          ],
+          [
+            -8.7568773,
+            42.2258764
+          ],
+          [
+            -8.7568445,
+            42.2258177
+          ]
+        ]
+      },
+      "id": "way/121822766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121822767",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7569852,
+            42.2260689
+          ],
+          [
+            -8.7579137,
+            42.22578
+          ]
+        ]
+      },
+      "id": "way/121822767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121822768",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7570921,
+            42.2262598
+          ],
+          [
+            -8.7579382,
+            42.2260069
+          ]
+        ]
+      },
+      "id": "way/121822768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831245",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7218795,
+            42.2412556
+          ],
+          [
+            -8.7219374,
+            42.2419229
+          ]
+        ]
+      },
+      "id": "way/121831245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831246",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7223573,
+            42.2412318
+          ],
+          [
+            -8.7224316,
+            42.2420033
+          ]
+        ]
+      },
+      "id": "way/121831246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831248",
+        "access": "private",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7420904,
+            42.2329848
+          ],
+          [
+            -8.7437547,
+            42.2323062
+          ]
+        ]
+      },
+      "id": "way/121831248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831249",
+        "access": "private",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.741554,
+            42.2329446
+          ],
+          [
+            -8.7408115,
+            42.2332479
+          ],
+          [
+            -8.7411268,
+            42.2336831
+          ],
+          [
+            -8.7413855,
+            42.2340383
+          ],
+          [
+            -8.7427668,
+            42.2334733
+          ],
+          [
+            -8.7429125,
+            42.2336774
+          ],
+          [
+            -8.7430739,
+            42.2336124
+          ]
+        ]
+      },
+      "id": "way/121831249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831250",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7214478,
+            42.2412775
+          ],
+          [
+            -8.7215039,
+            42.2418779
+          ]
+        ]
+      },
+      "id": "way/121831250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831251",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7601916,
+            42.2255273
+          ],
+          [
+            -8.7603321,
+            42.2257962
+          ]
+        ]
+      },
+      "id": "way/121831251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831252",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7605155,
+            42.2253485
+          ],
+          [
+            -8.7606919,
+            42.2256926
+          ],
+          [
+            -8.7603321,
+            42.2257962
+          ],
+          [
+            -8.7598165,
+            42.2259549
+          ]
+        ]
+      },
+      "id": "way/121831252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831253",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7600394,
+            42.2256204
+          ],
+          [
+            -8.7598258,
+            42.2256906
+          ],
+          [
+            -8.7596884,
+            42.2257393
+          ],
+          [
+            -8.7598165,
+            42.2259549
+          ],
+          [
+            -8.7598551,
+            42.2260232
+          ]
+        ]
+      },
+      "id": "way/121831253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831255",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.720871,
+            42.2419211
+          ],
+          [
+            -8.7211695,
+            42.2414418
+          ]
+        ]
+      },
+      "id": "way/121831255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831256",
+        "access": "private",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.741861,
+            42.233383
+          ],
+          [
+            -8.7411268,
+            42.2336831
+          ]
+        ]
+      },
+      "id": "way/121831256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831330",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.745314,
+            42.2267577
+          ],
+          [
+            -8.7449647,
+            42.226111
+          ]
+        ]
+      },
+      "id": "way/121831330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831331",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7448759,
+            42.2268868
+          ],
+          [
+            -8.7449697,
+            42.226861
+          ],
+          [
+            -8.7450663,
+            42.2268312
+          ]
+        ]
+      },
+      "id": "way/121831331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831332",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7452192,
+            42.2267855
+          ],
+          [
+            -8.745314,
+            42.2267577
+          ],
+          [
+            -8.7454069,
+            42.2267279
+          ]
+        ]
+      },
+      "id": "way/121831332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831333",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.744689,
+            42.2263333
+          ],
+          [
+            -8.7444871,
+            42.2263919
+          ],
+          [
+            -8.7443052,
+            42.22613
+          ],
+          [
+            -8.7442317,
+            42.2260349
+          ]
+        ]
+      },
+      "id": "way/121831333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831334",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7449697,
+            42.226861
+          ],
+          [
+            -8.744689,
+            42.2263333
+          ],
+          [
+            -8.7446245,
+            42.2262128
+          ],
+          [
+            -8.7449647,
+            42.226111
+          ],
+          [
+            -8.7450328,
+            42.2260887
+          ]
+        ]
+      },
+      "id": "way/121831334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121831335",
+        "floating": "yes",
+        "man_made": "pier",
+        "name": "Pantalan San Gregorio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7454857,
+            42.2262322
+          ],
+          [
+            -8.7452093,
+            42.2258581
+          ],
+          [
+            -8.7451626,
+            42.2258078
+          ]
+        ]
+      },
+      "id": "way/121831335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416633",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7513076,
+            42.2259595
+          ],
+          [
+            -8.7510813,
+            42.226031
+          ]
+        ]
+      },
+      "id": "way/122416633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416634",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7514386,
+            42.2261902
+          ],
+          [
+            -8.7507513,
+            42.2264112
+          ]
+        ]
+      },
+      "id": "way/122416634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416635",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7513577,
+            42.226046
+          ],
+          [
+            -8.7511489,
+            42.2261181
+          ]
+        ]
+      },
+      "id": "way/122416635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416636",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7513375,
+            42.2277903
+          ],
+          [
+            -8.7510328,
+            42.2278742
+          ],
+          [
+            -8.7509906,
+            42.2277908
+          ],
+          [
+            -8.7501376,
+            42.2280287
+          ],
+          [
+            -8.7500826,
+            42.2279496
+          ],
+          [
+            -8.7497829,
+            42.2280325
+          ]
+        ]
+      },
+      "id": "way/122416636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416637",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7515552,
+            42.2267494
+          ],
+          [
+            -8.7515879,
+            42.2267541
+          ],
+          [
+            -8.7516568,
+            42.2267319
+          ],
+          [
+            -8.7518142,
+            42.2270108
+          ]
+        ]
+      },
+      "id": "way/122416637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416638",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7515652,
+            42.2264142
+          ],
+          [
+            -8.7507132,
+            42.2266828
+          ],
+          [
+            -8.7506801,
+            42.2266282
+          ]
+        ]
+      },
+      "id": "way/122416638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122416639",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7517199,
+            42.226692
+          ],
+          [
+            -8.7515703,
+            42.2267411
+          ],
+          [
+            -8.7515552,
+            42.2267494
+          ],
+          [
+            -8.7506431,
+            42.2270356
+          ],
+          [
+            -8.7506016,
+            42.2269645
+          ]
+        ]
+      },
+      "id": "way/122416639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122653987",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7244419,
+            42.2410577
+          ],
+          [
+            -8.7242388,
+            42.2410679
+          ],
+          [
+            -8.7230726,
+            42.2411426
+          ]
+        ]
+      },
+      "id": "way/122653987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122653991",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7228088,
+            42.2411931
+          ],
+          [
+            -8.7226692,
+            42.2411966
+          ],
+          [
+            -8.722658,
+            42.2412047
+          ],
+          [
+            -8.7223556,
+            42.2412172
+          ],
+          [
+            -8.7223573,
+            42.2412318
+          ],
+          [
+            -8.7218795,
+            42.2412556
+          ],
+          [
+            -8.7214478,
+            42.2412775
+          ],
+          [
+            -8.7214091,
+            42.2412797
+          ]
+        ]
+      },
+      "id": "way/122653991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122653994",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7236343,
+            42.2414722
+          ],
+          [
+            -8.7238735,
+            42.2414386
+          ]
+        ]
+      },
+      "id": "way/122653994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122654000",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7206284,
+            42.2418376
+          ],
+          [
+            -8.7207643,
+            42.2418847
+          ],
+          [
+            -8.720871,
+            42.2419211
+          ],
+          [
+            -8.7219303,
+            42.2422847
+          ],
+          [
+            -8.7220547,
+            42.2423273
+          ],
+          [
+            -8.7221882,
+            42.2423732
+          ],
+          [
+            -8.7223673,
+            42.2424346
+          ],
+          [
+            -8.7225397,
+            42.2424938
+          ],
+          [
+            -8.72266,
+            42.2422954
+          ],
+          [
+            -8.7227899,
+            42.2423372
+          ],
+          [
+            -8.7226647,
+            42.2425409
+          ]
+        ]
+      },
+      "id": "way/122654000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122654003",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243437,
+            42.241908
+          ],
+          [
+            -8.7243536,
+            42.241781
+          ],
+          [
+            -8.7243612,
+            42.2416848
+          ],
+          [
+            -8.7243625,
+            42.241668
+          ],
+          [
+            -8.7243253,
+            42.2416558
+          ],
+          [
+            -8.7243088,
+            42.2415986
+          ],
+          [
+            -8.7242944,
+            42.2415444
+          ],
+          [
+            -8.723752,
+            42.241623
+          ],
+          [
+            -8.7230701,
+            42.2417263
+          ],
+          [
+            -8.7227962,
+            42.2417705
+          ],
+          [
+            -8.7227561,
+            42.2416184
+          ],
+          [
+            -8.7236368,
+            42.2414877
+          ],
+          [
+            -8.7236343,
+            42.2414722
+          ]
+        ]
+      },
+      "id": "way/122654003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385568",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7561297,
+            42.2261161
+          ],
+          [
+            -8.7560251,
+            42.2259304
+          ]
+        ]
+      },
+      "id": "way/152385568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385572",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7499047,
+            42.2288079
+          ],
+          [
+            -8.7506996,
+            42.2285827
+          ],
+          [
+            -8.7505629,
+            42.2283056
+          ],
+          [
+            -8.7505462,
+            42.2282715
+          ],
+          [
+            -8.7494712,
+            42.2285635
+          ]
+        ]
+      },
+      "id": "way/152385572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385573",
+        "access": "private",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7431286,
+            42.2314669
+          ],
+          [
+            -8.7405075,
+            42.232538
+          ]
+        ]
+      },
+      "id": "way/152385573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385574",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7598258,
+            42.2256906
+          ],
+          [
+            -8.7596449,
+            42.2253965
+          ]
+        ]
+      },
+      "id": "way/152385574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385575",
+        "access": "private",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7423588,
+            42.2315473
+          ],
+          [
+            -8.7421813,
+            42.2316177
+          ],
+          [
+            -8.740125,
+            42.2324514
+          ]
+        ]
+      },
+      "id": "way/152385575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385577",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7433213,
+            42.230886
+          ],
+          [
+            -8.7432595,
+            42.2308037
+          ],
+          [
+            -8.7429231,
+            42.2309399
+          ]
+        ]
+      },
+      "id": "way/152385577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385580",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7595562,
+            42.2258189
+          ],
+          [
+            -8.7583711,
+            42.2262823
+          ],
+          [
+            -8.7584577,
+            42.226416
+          ]
+        ]
+      },
+      "id": "way/152385580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385581",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7513375,
+            42.2277903
+          ],
+          [
+            -8.7514216,
+            42.2279567
+          ],
+          [
+            -8.7514834,
+            42.2280809
+          ]
+        ]
+      },
+      "id": "way/152385581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385583",
+        "access": "private",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7422213,
+            42.2313533
+          ],
+          [
+            -8.7421309,
+            42.2312386
+          ],
+          [
+            -8.7406324,
+            42.2319241
+          ]
+        ]
+      },
+      "id": "way/152385583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385585",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7562476,
+            42.2258619
+          ],
+          [
+            -8.7560251,
+            42.2259304
+          ],
+          [
+            -8.7558076,
+            42.2259973
+          ]
+        ]
+      },
+      "id": "way/152385585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152385586",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7514216,
+            42.2279567
+          ],
+          [
+            -8.7514097,
+            42.22796
+          ],
+          [
+            -8.7514585,
+            42.2280602
+          ],
+          [
+            -8.7505629,
+            42.2283056
+          ]
+        ]
+      },
+      "id": "way/152385586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160040023",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7263468,
+            42.240784
+          ],
+          [
+            -8.7269635,
+            42.2413987
+          ]
+        ]
+      },
+      "id": "way/160040023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160040024",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7259834,
+            42.2409899
+          ],
+          [
+            -8.726613,
+            42.2416114
+          ]
+        ]
+      },
+      "id": "way/160040024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303073606",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7262239,
+            42.2418299
+          ],
+          [
+            -8.7259256,
+            42.241534
+          ]
+        ]
+      },
+      "id": "way/303073606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303073607",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7260646,
+            42.2414715
+          ],
+          [
+            -8.7259256,
+            42.241534
+          ],
+          [
+            -8.7256962,
+            42.2416375
+          ],
+          [
+            -8.7255991,
+            42.2415087
+          ],
+          [
+            -8.7255651,
+            42.2414721
+          ],
+          [
+            -8.7255657,
+            42.2413984
+          ],
+          [
+            -8.7258376,
+            42.2410718
+          ],
+          [
+            -8.7259834,
+            42.2409899
+          ],
+          [
+            -8.7263468,
+            42.240784
+          ],
+          [
+            -8.7263715,
+            42.2407712
+          ],
+          [
+            -8.7270513,
+            42.2408851
+          ],
+          [
+            -8.7277261,
+            42.2412095
+          ],
+          [
+            -8.7277798,
+            42.241268
+          ],
+          [
+            -8.726403,
+            42.2420288
+          ]
+        ]
+      },
+      "id": "way/303073607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304376156",
+        "access": "private",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7442608,
+            42.2329993
+          ],
+          [
+            -8.7429378,
+            42.2335336
+          ]
+        ]
+      },
+      "id": "way/304376156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304376157",
+        "access": "private",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7421813,
+            42.2316177
+          ],
+          [
+            -8.7421121,
+            42.231529
+          ],
+          [
+            -8.7422701,
+            42.231464
+          ]
+        ]
+      },
+      "id": "way/304376157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373884635",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.744578,
+            42.2262282
+          ],
+          [
+            -8.7446245,
+            42.2262128
+          ]
+        ]
+      },
+      "id": "way/373884635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/497105449",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7285311,
+            42.2403207
+          ],
+          [
+            -8.7285973,
+            42.2403465
+          ],
+          [
+            -8.7286313,
+            42.2403597
+          ],
+          [
+            -8.7286894,
+            42.2403455
+          ],
+          [
+            -8.7286958,
+            42.2403488
+          ],
+          [
+            -8.728703,
+            42.240352
+          ],
+          [
+            -8.7287067,
+            42.240389
+          ],
+          [
+            -8.7289255,
+            42.240473
+          ],
+          [
+            -8.7290523,
+            42.2405241
+          ],
+          [
+            -8.7291155,
+            42.2405483
+          ]
+        ]
+      },
+      "id": "way/497105449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/498212550",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7286958,
+            42.2403488
+          ],
+          [
+            -8.7287974,
+            42.2402006
+          ]
+        ]
+      },
+      "id": "way/498212550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/498213072",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7289255,
+            42.240473
+          ],
+          [
+            -8.7289922,
+            42.2403808
+          ]
+        ]
+      },
+      "id": "way/498213072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474075",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7238577,
+            42.2420084
+          ],
+          [
+            -8.7239825,
+            42.2419906
+          ]
+        ]
+      },
+      "id": "way/703474075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474076",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7231544,
+            42.2420256
+          ],
+          [
+            -8.7232681,
+            42.2420084
+          ]
+        ]
+      },
+      "id": "way/703474076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474091",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7231544,
+            42.2420256
+          ],
+          [
+            -8.7229972,
+            42.2420491
+          ]
+        ]
+      },
+      "id": "way/703474091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474092",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7230701,
+            42.2417263
+          ],
+          [
+            -8.7230996,
+            42.2418308
+          ],
+          [
+            -8.7231054,
+            42.2418516
+          ],
+          [
+            -8.7231253,
+            42.2419223
+          ],
+          [
+            -8.7231353,
+            42.2419578
+          ],
+          [
+            -8.7231544,
+            42.2420256
+          ]
+        ]
+      },
+      "id": "way/703474092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474247",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7238577,
+            42.2420084
+          ],
+          [
+            -8.7237048,
+            42.2420329
+          ]
+        ]
+      },
+      "id": "way/703474247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703474248",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.723752,
+            42.241623
+          ],
+          [
+            -8.7237697,
+            42.2416872
+          ],
+          [
+            -8.7237822,
+            42.2417332
+          ],
+          [
+            -8.7237986,
+            42.2417928
+          ],
+          [
+            -8.7238073,
+            42.2418247
+          ],
+          [
+            -8.7238293,
+            42.2419049
+          ],
+          [
+            -8.7238331,
+            42.2419186
+          ],
+          [
+            -8.7238577,
+            42.2420084
+          ]
+        ]
+      },
+      "id": "way/703474248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457560",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7230996,
+            42.2418308
+          ],
+          [
+            -8.7232122,
+            42.2418116
+          ]
+        ]
+      },
+      "id": "way/705457560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457561",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7231253,
+            42.2419223
+          ],
+          [
+            -8.7232393,
+            42.2419051
+          ]
+        ]
+      },
+      "id": "way/705457561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457562",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7231353,
+            42.2419578
+          ],
+          [
+            -8.7229801,
+            42.2419808
+          ]
+        ]
+      },
+      "id": "way/705457562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457563",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7231054,
+            42.2418516
+          ],
+          [
+            -8.7229486,
+            42.2418739
+          ]
+        ]
+      },
+      "id": "way/705457563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457564",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7238073,
+            42.2418247
+          ],
+          [
+            -8.7239278,
+            42.2418091
+          ]
+        ]
+      },
+      "id": "way/705457564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457565",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7237822,
+            42.2417332
+          ],
+          [
+            -8.7239068,
+            42.2417152
+          ]
+        ]
+      },
+      "id": "way/705457565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457566",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7238331,
+            42.2419186
+          ],
+          [
+            -8.7239537,
+            42.2419013
+          ]
+        ]
+      },
+      "id": "way/705457566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457567",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7237986,
+            42.2417928
+          ],
+          [
+            -8.7236421,
+            42.2418186
+          ]
+        ]
+      },
+      "id": "way/705457567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457568",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7237697,
+            42.2416872
+          ],
+          [
+            -8.7235999,
+            42.2417124
+          ]
+        ]
+      },
+      "id": "way/705457568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705457569",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7238293,
+            42.2419049
+          ],
+          [
+            -8.7236711,
+            42.241927
+          ]
+        ]
+      },
+      "id": "way/705457569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706601251",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7232158,
+            42.2424106
+          ],
+          [
+            -8.7231881,
+            42.242313
+          ]
+        ]
+      },
+      "id": "way/706601251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706601252",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243726,
+            42.2422303
+          ],
+          [
+            -8.7232158,
+            42.2424106
+          ],
+          [
+            -8.7232356,
+            42.2424738
+          ]
+        ]
+      },
+      "id": "way/706601252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707254660",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7224988,
+            42.2420002
+          ],
+          [
+            -8.7224316,
+            42.2420033
+          ],
+          [
+            -8.7223607,
+            42.2420077
+          ]
+        ]
+      },
+      "id": "way/707254660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707254661",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243536,
+            42.241781
+          ],
+          [
+            -8.7242242,
+            42.2418033
+          ]
+        ]
+      },
+      "id": "way/707254661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707254662",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243612,
+            42.2416848
+          ],
+          [
+            -8.7242038,
+            42.2417096
+          ]
+        ]
+      },
+      "id": "way/707254662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707254663",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243088,
+            42.2415986
+          ],
+          [
+            -8.7241782,
+            42.2416167
+          ]
+        ]
+      },
+      "id": "way/707254663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1001265792",
+        "access": "private",
+        "man_made": "pier",
+        "source": "PNOA Spain"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7431263,
+            42.2336562
+          ],
+          [
+            -8.7429728,
+            42.2337396
+          ],
+          [
+            -8.741285,
+            42.2343746
+          ]
+        ]
+      },
+      "id": "way/1001265792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1001316695",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7568773,
+            42.2258764
+          ],
+          [
+            -8.7578712,
+            42.2255699
+          ]
+        ]
+      },
+      "id": "way/1001316695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003487242",
+        "man_made": "pier",
+        "source": "PNOA Spain"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7255524,
+            42.241691
+          ],
+          [
+            -8.7255595,
+            42.2415297
+          ],
+          [
+            -8.7255991,
+            42.2415087
+          ]
+        ]
+      },
+      "id": "way/1003487242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003762971",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7285973,
+            42.2403465
+          ],
+          [
+            -8.7285825,
+            42.2403646
+          ]
+        ]
+      },
+      "id": "way/1003762971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003762972",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7290523,
+            42.2405241
+          ],
+          [
+            -8.729124,
+            42.2404261
+          ]
+        ]
+      },
+      "id": "way/1003762972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003810560",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7243625,
+            42.241668
+          ],
+          [
+            -8.7243759,
+            42.2414962
+          ]
+        ]
+      },
+      "id": "way/1003810560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003956160",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7220046,
+            42.2419198
+          ],
+          [
+            -8.7219374,
+            42.2419229
+          ],
+          [
+            -8.7218665,
+            42.2419273
+          ]
+        ]
+      },
+      "id": "way/1003956160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003959010",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7219303,
+            42.2422847
+          ],
+          [
+            -8.7220405,
+            42.2421098
+          ]
+        ]
+      },
+      "id": "way/1003959010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003959011",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7220547,
+            42.2423273
+          ],
+          [
+            -8.7221791,
+            42.2421266
+          ]
+        ]
+      },
+      "id": "way/1003959011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003959012",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7221882,
+            42.2423732
+          ],
+          [
+            -8.7223037,
+            42.2421866
+          ]
+        ]
+      },
+      "id": "way/1003959012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003959013",
+        "floating": "yes",
+        "man_made": "pier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7223673,
+            42.2424346
+          ],
+          [
+            -8.7224895,
+            42.242237
+          ]
+        ]
+      },
+      "id": "way/1003959013"
+    }
+  ]
+}
