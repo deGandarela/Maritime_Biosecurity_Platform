@@ -1,0 +1,13 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+folium
+streamlit-folium
+websocket-client
+Flask
+xarray
+netCDF4
+gfw-api-python-client
+requests
+geopy
